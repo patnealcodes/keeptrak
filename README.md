@@ -1,12 +1,10 @@
 # keeptrak
 
-An app to organize and keeptrak of links, videos, images and notes.
-
-## Status
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9caeb747-6d92-4b82-b2ad-c5bab5884d88/deploy-status)](https://app.netlify.com/sites/keeptrak/deploys)
 
-## Available Scripts
+An app to organize and keeptrak of links, videos, images and notes.
+
+## Quick Start
 
 In the project directory, you can run:
 
